@@ -21,19 +21,30 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Configure Roles
+  - Create a new role
+  - 
+- Comfigure Departments
+- Configure Teams
+- Configure Agents
+- Configure Users
+- Configure SLA
+- Configure Topics
 
 <h2>Configuration Steps</h2>
 
 
 <p>
-Lorem ipsum dolor sit amet
+Configure my role in osTicket by creating a new role. Go to Admin Panel -> Agent -> Roles. Here you can add, delete and configure roles in osTicket. I will add a new role names "My Permissions." 
 </p>
 <br />
+
+
+![2-1](https://github.com/user-attachments/assets/1582d1c7-bfea-4b25-9da0-7e0d45f09a70)
+![2-2](https://github.com/user-attachments/assets/e833edf9-4e77-414b-9682-1ca10a8451aa)
+![2-3](https://github.com/user-attachments/assets/f2a41f10-db80-4417-8561-1f33a2c63f75)
+![2-4](https://github.com/user-attachments/assets/1ddbdd8f-b34f-47f4-97f2-5b91186e0806)
+
 
 
 <p>
