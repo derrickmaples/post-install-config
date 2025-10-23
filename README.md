@@ -1,6 +1,5 @@
-<p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
-</p>
+![osTicketImage](https://github.com/user-attachments/assets/501cacc0-438e-466c-a227-29f2eff08797)
+
 
 <h1>osTicket - Post-Install Configuration</h1>
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
@@ -18,7 +17,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 11</b> (21H2)
 
 <h2>Post-Install Configuration Objectives</h2>
 
@@ -30,26 +29,109 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Lorem ipsum dolor sit amet
 </p>
+<br />
+
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Lorem ipsum dolor sit amet
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Lorem ipsum dolor sit amet
 </p>
 <br />
 
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Lorem ipsum dolor sit amet
 </p>
+<br />
+
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Lorem ipsum dolor sit amet
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br />
+
+
+<p>
+Lorem ipsum dolor sit amet
 </p>
 <br />
