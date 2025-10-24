@@ -22,8 +22,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Post-Install Configuration Objectives</h2>
 
 - Configure Roles
-- Comfigure Departments
+- Configure Departments
 - Configure Teams
+- Allow anyone the ability to create a ticket
 - Configure Agents
 - Configure Users
 - Configure SLA
@@ -46,7 +47,7 @@ Configure my role in osTicket by creating a new role. Go to Admin Panel -> Agent
 
 
 <p>
-I add a new role named "My Permissions" and give the role unlimited access. 
+Add a new role named "My Permissions" and give the role unlimited access. 
 </p>
 <br />
 
@@ -58,21 +59,34 @@ I add a new role named "My Permissions" and give the role unlimited access.
 
 
 <p>
-Lorem ipsum dolor sit amet
+Add a new department named "Admins" in the Departments tab.
 </p>
 <br />
+
+
+![2-6a](https://github.com/user-attachments/assets/59248fdf-28f5-4c38-95c3-3a344e652c4d)
+![2-6b](https://github.com/user-attachments/assets/4ee93533-645a-45ed-8193-d188dd86b730)
+![2-6c](https://github.com/user-attachments/assets/9b100c2b-43fa-4d88-9d18-3e424820eba4)
 
 
 <p>
-Lorem ipsum dolor sit amet
+Add a new team named "Accounting" in the Teams tab.
 </p>
 <br />
+
+
+![2-7](https://github.com/user-attachments/assets/8c3c00c8-07e7-4804-908f-f6549e3bee5f)
+![2-7a](https://github.com/user-attachments/assets/0043b8b4-5e50-42fa-88d5-9483b990b657)
+![2-7b](https://github.com/user-attachments/assets/5f08fddf-28f6-48c0-b687-b70ef96e188b)
 
 
 <p>
-Lorem ipsum dolor sit amet
+Allow anyone the ability to create a ticket by going to Settings -> Users and making sure the "Require registration and login to create tickets" option is not checked.
 </p>
 <br />
+
+
+![2-8](https://github.com/user-attachments/assets/53707fd8-65df-4a0c-8a94-9aa79f98ca86)
 
 
 <p>
