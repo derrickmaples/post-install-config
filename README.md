@@ -4,11 +4,6 @@
 <h1>osTicket - Post-Install Configuration</h1>
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -90,15 +85,25 @@ Allow anyone the ability to create a ticket by going to Settings -> Users and ma
 
 
 <p>
-Lorem ipsum dolor sit amet
+Add some agents and assign them to departments and teams. I got the names from a randomizer so if you know someone by these names it is a coincidence.
+Add Mary Charles to the Admins department with My Permissions access and the Accounting team.
 </p>
 <br />
 
+
+![2-9](https://github.com/user-attachments/assets/f6425e79-65fe-48bb-9841-f852312a5b11)
+![2-9a](https://github.com/user-attachments/assets/bad4489c-10c1-478b-8a49-b8f922976890)
+![2-9b](https://github.com/user-attachments/assets/5247dedc-8dc9-406f-a948-e8a305731b22)
 
 <p>
-Lorem ipsum dolor sit amet
+Add Eric Gabriel to the Support department with View Only access and no team. Now there are two more people in the Agents category.
 </p>
 <br />
+
+
+![2-9c](https://github.com/user-attachments/assets/f53f872b-11a9-48ed-bbf9-fca43e6e5c77)
+![2-9d](https://github.com/user-attachments/assets/b180031e-f12f-4827-bf1e-e719321e1f1c)
+![2-9e](https://github.com/user-attachments/assets/86d2841b-15f1-464f-b012-b7fe78e6f3cc)
 
 
 <p>
