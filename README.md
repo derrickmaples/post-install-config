@@ -33,22 +33,29 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 <p>
-Configure my role in osTicket by creating a new role. Go to Admin Panel -> Agent -> Roles. Here you can add, delete and configure roles in osTicket. I will add a new role names "My Permissions." 
+Configure my role in osTicket by creating a new role. Go to Admin Panel -> Agent -> Roles. Here you can add, delete and configure roles in osTicket.  
 </p>
 <br />
 
 
-![2-1](https://github.com/user-attachments/assets/1582d1c7-bfea-4b25-9da0-7e0d45f09a70)
-![2-2](https://github.com/user-attachments/assets/e833edf9-4e77-414b-9682-1ca10a8451aa)
+![2-1](https://github.com/user-attachments/assets/e1310f45-c7f8-4286-aa4c-e3aec09972d1)
+![2-2](https://github.com/user-attachments/assets/304815c8-fc0b-4508-88b6-6b1d770ead04)
 ![2-3](https://github.com/user-attachments/assets/f2a41f10-db80-4417-8561-1f33a2c63f75)
 ![2-4](https://github.com/user-attachments/assets/1ddbdd8f-b34f-47f4-97f2-5b91186e0806)
 
 
 
 <p>
-Lorem ipsum dolor sit amet
+I add a new role named "My Permissions" and give the role unlimited access. 
 </p>
 <br />
+
+
+![2-5](https://github.com/user-attachments/assets/ec118a03-dd53-4588-83e0-1f3aabcc6fd5)
+![2-5a](https://github.com/user-attachments/assets/18cb96b4-88cc-4e6c-b19a-28e4b4eff33f)
+![2-5b](https://github.com/user-attachments/assets/cb9f60fa-96ad-4d89-8b20-97d8211bef39)
+
+
 
 <p>
 Lorem ipsum dolor sit amet
