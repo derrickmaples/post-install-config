@@ -76,7 +76,7 @@ Add a new team named "Accounting" in the Teams tab.
 
 
 <p>
-Allow anyone the ability to create a ticket by going to Settings -> Users and making sure the "Require registration and login to create tickets" option is not checked.
+Allow anyone the ability to create a ticket by going to Settings -> Users by making sure the "Require registration and login to create tickets" option is not checked.
 </p>
 <br />
 
@@ -85,7 +85,7 @@ Allow anyone the ability to create a ticket by going to Settings -> Users and ma
 
 
 <p>
-Add some agents and assign them to departments and teams. I got the names from a randomizer so if you know someone by these names it is a coincidence.
+Add some agents and assign them to departments and teams. I got the names from a randomizer.
 Add Mary Charles to the Admins department with My Permissions access and the Accounting team.
 </p>
 <br />
@@ -107,19 +107,31 @@ Add Eric Gabriel to the Support department with View Only access and no team. No
 
 
 <p>
-Lorem ipsum dolor sit amet
+Add the osTicket users who will be able to create tickets by going to the Users tab in the Agent Panel.
+Add Fred Peterson and Ron Davis
+They now appear in the User Directory
 </p>
 <br />
 
 
+![2-10](https://github.com/user-attachments/assets/7ea03a89-a69a-48e5-9eb6-8a4ef3bd75ed)
+![2-10a](https://github.com/user-attachments/assets/b53285ed-588b-487f-8d45-22affa5713ed)
+![2-10b](https://github.com/user-attachments/assets/13bfb9f9-a1a1-4619-95f5-1c1f73e793dc)
+![2-10c](https://github.com/user-attachments/assets/e5427401-847a-43a9-b360-a6b77036f3da)
+
+
 <p>
-Lorem ipsum dolor sit amet
+Create the SLA perameters for the tickets. This determines the time at which the tickets are resolved depending on the problem.
+Go to SLA in the Manage tab of the Admin Panel.
 </p>
 <br />
 
 
+![2-11](https://github.com/user-attachments/assets/37e43f27-8d27-45d3-b5d2-1f2b573f3112)
+
+
 <p>
-Lorem ipsum dolor sit amet
+
 </p>
 <br />
 
