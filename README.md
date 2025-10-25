@@ -131,54 +131,25 @@ Go to SLA in the Manage tab of the Admin Panel.
 
 
 <p>
-
+For this project, 3 SLAs are created. Level 1,2 and 3 (1 being the highest level)
 </p>
 <br />
 
+
+![2-11a](https://github.com/user-attachments/assets/add9bb5c-b845-4d0c-acea-1a79b4617ae2)
+![2-11b](https://github.com/user-attachments/assets/c379d5f4-8c19-4661-af2f-27949a1f7626)
+![2-11c](https://github.com/user-attachments/assets/a27e2172-ca03-4251-8555-fd732d8eee81)
 
 <p>
-Lorem ipsum dolor sit amet
+Create the topics for each level to help the user determine which level to use in Help Topics.
+Create "Equipment Request" and "Other" under General Inquiry and "Business Critical", "PC Issues" and "Reset Password" underReport a Problem.
 </p>
 <br />
 
 
-<p>
-Lorem ipsum dolor sit amet
-</p>
-<br />
+![2-12](https://github.com/user-attachments/assets/58c49e8e-8e2a-4eed-84ce-e3098615b30d)
+![2-12a](https://github.com/user-attachments/assets/6dede115-ab38-4dc7-8ff4-f0c5d2c917d4)
 
 
-<p>
-Lorem ipsum dolor sit amet
-</p>
-<br />
-
-
-<p>
-Lorem ipsum dolor sit amet
-</p>
-<br />
-
-
-<p>
-Lorem ipsum dolor sit amet
-</p>
-<br />
-
-
-<p>
-Lorem ipsum dolor sit amet
-</p>
-<br />
-
-
-<p>
-Lorem ipsum dolor sit amet
-</p>
-<br />
-
-
-<p>
-Lorem ipsum dolor sit amet
-</p>
-<br />
+<h2>Success!</h2>
+Success! 
