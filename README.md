@@ -142,7 +142,7 @@ For this project, 3 SLAs are created. Level 1,2 and 3 (1 being the highest level
 
 <p>
 Create the topics for each level to help the user determine which level to use in Help Topics.
-Create "Equipment Request" and "Other" under General Inquiry and "Business Critical", "PC Issues" and "Reset Password" underReport a Problem.
+Create "Equipment Request" and "Other" under General Inquiry and "Business Critical", "PC Issues" and "Reset Password" under Report a Problem.
 </p>
 <br />
 
