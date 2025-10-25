@@ -152,4 +152,3 @@ Create "Equipment Request" and "Other" under General Inquiry and "Business Criti
 
 
 <h2>Success!</h2>
-Success! 
